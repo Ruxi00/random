@@ -4,14 +4,25 @@
   <title>my page</title>
 </head>
 <body>
-  <h1>HELLO</h1>
-  <p>My name is ruixin</p>
-  <h2>Education</h2>
+  
+  
+  
+  <h1 style="text-align:centre;">My Webpage</h1>
+  <p style="font-family: monospace;">My name is ruxi</p>
+  <h2 style="color:#575e9e;"> Facts about me!</h2>
+  
   <ol>
-    <li>fuhua sec sch</li>
-    <li> <a href= "https://www.google.com.sg/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiH0-TwvqP9AhV0VmwGHQxaC7IQFnoECEgQAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNever_Gonna_Give_You_Up&usg=AOvVaw2aJDmdHr52wI9rdqyHw8Xd"> asrjc</a></li>
+    <li>I love cats</li>
+    <li>I love eating desserts</li>
+    <li>I am currently in 
+      <a href="https://asrjc.moe.edu.sg/">asrjc</a> 
+    </li>
+    <li>My most used emoji: :	&#x1F602;</li>
   </ol>  
-  <img src = "https://cdn.shopify.com/s/files/1/0344/6469/files/cats-judging-you.jpg?v=1528922704 `q1" width="150" />
+  
+  <img src = "https://cdn.shopify.com/s/files/1/0344/6469/files/cats-judging-you.jpg?v=1528922704 `q1" width="150"/>
+  
+  <p>Please fill in the form below</p>
   <form>
     <label for="text">Name:</label>
     <input type="text" id="text" name="text">
@@ -19,8 +30,6 @@
   <form>
     
     
-<p>My most used emoji: 	&#x1F602; </p>
-    
     
 </body>
-
+</html>
