@@ -1,0 +1,26 @@
+#Write a program to validate a student's class, name, mobile number and email address.
+
+class_ = input("Enter class: ")
+name = input("Enter name: ")
+mn = input("Enter mobile number: ")
+ea = input("Enter email_adress: ")
+
+if class_[0:2].isdigit() and class_[3:].isdigit() and class_[2]=="/":
+  print("student class is valid")
+else:
+  print("student class is not valid")
+
+if len(name) <= 40:
+  print("students name is valid")
+else:
+  print("student class is not valid")
+
+if mn.isdigit() and len(mn)==8:
+  print("students mobile adress is valid")
+else:
+  print("student class is not valid")
+
+if "@asrjc.edu.sg" in ea:
+  print("student input is valid")
+else:
+  print("student class is not valid")
